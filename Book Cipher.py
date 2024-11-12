@@ -114,7 +114,7 @@ def main_menu():
 
 
 def main():
-    key_books = ('books/Shakespeare_all.txt', 'books/Dr_Jekyll.txt', 'books/War_and_Peace.txt')
+    key_books = ('books/Shakespeare_all.txt', 'books/Dr_Jekyll.txt', 'books/War_and_Peace.txt', 'poem.txt')
     code_book_path = 'code_books/real_deal.json'
     rev_code_book_path = 'code_books/rev_real_deal_r.json'
     while True:
